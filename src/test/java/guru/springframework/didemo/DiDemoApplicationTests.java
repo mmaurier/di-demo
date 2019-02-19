@@ -1,4 +1,4 @@
-package guruspringframework.didemo;
+package guru.springframework.didemo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
